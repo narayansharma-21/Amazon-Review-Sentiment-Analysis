@@ -10,13 +10,13 @@ To set up the project environment, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 ```bash 
-git clone https://github.com/your-username/NLP-Amazon-Review-Sentiment-Analysis.git
+git clone https://github.com/your-username/Amazon-Review-Sentiment-Analysis.git
 ```
 
 2. **Navigate to the Project Directory**: Use the `cd` command to navigate into the project directory:
 
 ```bash
-cd NLP-Amazon-Review-Sentiment-Analysis`
+cd Amazon-Review-Sentiment-Analysis`
 ```
 
 3. **Create a Virtual Environment**: Create a virtual environment to isolate project dependencies. Depending on your operating system, use one of the following commands:
