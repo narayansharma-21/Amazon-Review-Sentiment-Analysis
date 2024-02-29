@@ -47,7 +47,7 @@ pip install -r requirements.txt`
 
 # Dataset
 
-[https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/#subsets](The link to the dataset from 2018.)
+[The link to the dataset from 2018.](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/#subsets)
 
 Steps to download datset:
 1. Navigate to the website and scroll down to the `Files` category.
