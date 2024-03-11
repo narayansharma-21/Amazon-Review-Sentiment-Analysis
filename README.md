@@ -47,9 +47,9 @@ pip install -r requirements.txt`
 
 # Dataset
 
-[The link to the dataset from 2018.](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/#subsets)
+[The link to the dataset from 2018.](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/#files)
 
 Steps to download datset:
 1. Navigate to the website and scroll down to the `Files` category.
-2. Download the 'Amazon Fashion' reviews dataset (the one with 883,636 reviews).
-3. Once downloaded, unzip the file and paste into the `data/raw` directory. 
+2. In the `Per-category data` section, download the 'Amazon Fashion' reviews dataset (the one with 883,636 reviews).
+3. Once downloaded, paste the .gz file into the `data` directory. 
