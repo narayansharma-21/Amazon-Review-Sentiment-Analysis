@@ -161,3 +161,4 @@ cython_debug/
 
 data/raw
 data/processed
+src/model/random_forest/pickle_model
