@@ -162,3 +162,4 @@ cython_debug/
 data/raw
 data/processed
 src/model/random_forest/pickle_model
+src/model/bag_of_words/random_forest_model.pkl
