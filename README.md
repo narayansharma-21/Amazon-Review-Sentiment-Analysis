@@ -44,7 +44,7 @@ cd Amazon-Review-Sentiment-Analysis`
 pip install -r requirements.txt`
 ```
 
-6. **Connect to reviewNB** (Optional): Connect GitHub account to [ReviewNB](ttps://app.reviewnb.com/) to help see changes between commits rather than the packaged json changes. 
+6. **Connect to reviewNB** (Optional): Connect GitHub account to [ReviewNB](https://app.reviewnb.com/) to help see changes between commits rather than the packaged json changes. 
 
 
 # Dataset
